@@ -2,6 +2,7 @@
 #include <string.h>  
 void main()
 {  
+   int conu;
    float chg, surchg=0, gramt,netamt;
    char connm[25];
    printf("Input the unit consumed by the customer : ");
